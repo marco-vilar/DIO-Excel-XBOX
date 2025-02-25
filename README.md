@@ -18,7 +18,8 @@ E = Extras - Colocação eventual de pdf's, links, estudos, entre outras informa
 
 Foi fornecida uma base de dados contendo informações de vendas do ano de 2024 relacionado ao XBOX entre outros seriços e produtos da Microsoft.
 
-- [Base fornecida](./01_Base_Fornecida.xlsx)
+- [Base fornecida](./01_Base_ Fornecida.xlsx)
+- [Base fornecida](./02_Dashboard_Finalizado.xlsx)
 
 
 ## Criação do Dashboard
