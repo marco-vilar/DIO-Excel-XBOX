@@ -18,16 +18,17 @@ E = Extras - Colocação eventual de pdf's, links, estudos, entre outras informa
 
 Foi fornecida uma base de dados contendo informações de vendas do ano de 2024 relacionado ao XBOX entre outros seriços e produtos da Microsoft.
 
-- [01_Base_Fornecida.xlsx](./01_Base_Fornecida.xlsx)
+- [Base fornecida](./01_Base_Fornecida.xlsx)
 
 
 ## Criação do Dashboard
 
 A partir da base de dados fornecida foi criado um dashboard em excel para visualização adotando como prática de organização o ABCDE e melhores formas para a presentaçã odo Dashboard.
 
-- [02_Dashboard_Finalizado.xlsx](./02_Dashboard_Finalizado.xlsx)
+- [Dashboard finalizado](./02_Dashboard_Finalizado.xlsx)
 
 ## Projeto Final em Gif
 
-- [03 Projeto em gif](./02_Dashboard_Finalizado.xlsx)
+- ![03_Gif_Dashboard_Excel](https://github.com/user-attachments/assets/87fe5c2a-9162-4093-9cdb-4f2d6882bde6)
+
 
