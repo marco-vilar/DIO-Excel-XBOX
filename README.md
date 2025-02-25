@@ -1,5 +1,5 @@
 # DIO-Excel-XBOX
-Criação de um Dashboard para responder perguntas de negócio da Xbox
+Criação de um Dashboard para responder perguntas de negócio do Projeto da Escola DIO sobre o Xbox.
 
 ## Ferramenta utilizadas
 
